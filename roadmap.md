@@ -5,14 +5,14 @@
 ### Hibernet Framework
 ### Mavan
 ### Spring Framework
-#### Core of Spring
-#### Spring REST and Spring Data
-#### Spring Security
+  #### - Core of Spring
+  #### - Spring REST and Spring Data
+  #### - Spring Security
 ### Spring Boot
 ### Basics of devops
-#### Basic Docker
-#### Basic Kubernetes
-#### Basics of aws
+  #### - Basic Docker
+  #### - Basic Kubernetes
+  #### - Basics of aws
 ### Git and Github
 ### Basics of Shell or linux terminal
 ### Java Microservices
